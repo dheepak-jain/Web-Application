@@ -19,5 +19,7 @@ In the jsp file I am using DataTables to display the returned data.
 Reference:
 
 pugixml: https://pugixml.org/
+
 Windows Event Log: https://docs.microsoft.com/en-us/windows/win32/wes/windows-event-log
+
 DataTables: https://datatables.net/
