@@ -7,7 +7,7 @@ The C++ folder consists of native windows c++ code for getting the channel infor
 
 Workflow
 
-When the channelInfo.jsp file is executed the jsp file calls the channelInfo servlet which will call the demo.java which loads 
+When the channelInfo.jsp file is executed the jsp file calls the channelInfoservlet which will call the demo1.java which loads 
 the jni_info.dll . The dynamic link library(dll) contains the code for Java Native Interface (JNI). The JNI enables the java 
 application to run the c++ code to get the channel information. The native c++ code gets the channel information using Windows API's
 and stores the information in a database created using postgreSql. Then the information that is stored in the database is retrived and 
