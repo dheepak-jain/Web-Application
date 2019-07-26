@@ -13,3 +13,9 @@ Event Log Collector (It is similar to Windows event Log viewer) is an applicatio
 by the Windows operating system that can be used by administrators to diagnose system problems and predict future issues.
 
 Channel Information is an application which displays the channels that are present in the system.
+
+
+
+Contact Information:
+
+If you have any doubts regarding the project feel free to contact me at dheepakjain@gmail.com.
